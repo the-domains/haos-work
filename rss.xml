@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Haos Work]]></title>
+        <description><![CDATA[Haos Work]]></description>
+        <link>http://haos.work/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 May 2017 15:40:35 GMT</lastBuildDate>
+        <atom:link href="http://haos.work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to record Desktop Screen using VLC Player on Windows 10]]></title>
+            <description><![CDATA[<article><h1>How to record Desktop Screen using VLC Player on Windows 10</h1><p>VLC Media Player contains a pack of useful features. Whatever media file you may have, VLC Player helps you to play that file. Apart from playing any file format, we also know that we can stream videos using VLC Player. Now, we are going a step forward and will use the most interesting feature of this player.</p><img src="http://thewindowsclub.thewindowsclubco.netdna-cdn.com/wp-content/uploads/2015/11/Record-desktop-screen-using-vlc-player.png"></article>]]></description>
+            <link>http://www.thewindowsclub.com/record-desktop-screen-using-vlc-player</link>
+            <guid isPermaLink="false">5b707d78-abe1-40bb-9ca8-5c93059f14ea</guid>
+            <pubDate>Fri, 26 May 2017 15:39:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
