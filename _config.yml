@@ -1,0 +1,33 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Haos Work
+layout_spectrum: 0.6688406954053789
+typography_spectrum: 0.28881853772327304
+color:
+  brandStrength: 0.5790280669461936
+  lightness: 0.9050590607803315
+  saturation: 0.11262671975418925
+  rhythmicContrast: 0.8799500328022987
+  brandColors:
+    - '#04BFBF'
+    - '#CAFCD8'
+    - '#F7E967'
+    - '#A9CF54'
+    - '#588F27'
+content: []
+title: Haos Work
+description: What i do to get it done...
+purpose:
+  - type: contact
+    url: 'tel:4142025364'
+    label: Call 414.202.5364
+url: 'http://haos.work/'
+github: true
+author:
+  name: Benjamin Haos
+  email: benjaminhaos@gmail.com
